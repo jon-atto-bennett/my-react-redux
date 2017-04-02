@@ -1,0 +1,13 @@
+{
+  "name": "my-react-redux",
+  "version": "1.0.0",
+  "description": "create react/redux app from scratch",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jattob",
+  "license": "ISC"
+}
